@@ -1,2 +1,16 @@
+attrs==21.4.0
 aws-cdk-lib==2.35.0
-constructs>=10.0.0,<11.0.0
+boto3==1.24.46
+botocore==1.27.46
+cattrs==22.1.0
+constructs==10.1.67
+exceptiongroup==1.0.0rc8
+jmespath==1.0.1
+jsii==1.63.2
+publication==0.0.3
+python-dateutil==2.8.2
+s3transfer==0.6.0
+six==1.16.0
+typeguard==2.13.3
+typing-extensions==4.3.0
+urllib3==1.26.11
