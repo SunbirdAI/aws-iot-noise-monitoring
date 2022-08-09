@@ -15,3 +15,4 @@ cdk.out
 # other stuff
 devices/
 try_stuff.py
+endpoint.json
